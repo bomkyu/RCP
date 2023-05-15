@@ -20,9 +20,8 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build",
     "predeploy": "yarn build"
-    
   },
-  "homepage": "https://bomkyu.github.io/RSC",
+  "homepage": "https://bomkyu.github.io/RCP/",
   "eslintConfig": {
     "extends": [
       "react-app",
